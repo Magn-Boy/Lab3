@@ -15,6 +15,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.res.colorResource
 import androidx.compose.ui.res.stringResource
 import androidx.compose.ui.text.input.KeyboardType
+import androidx.compose.ui.tooling.preview.Preview
 import com.raywenderlich.android.lab1.R
 import com.raywenderlich.android.lab1.router.BackButtonHandler
 import com.raywenderlich.android.lab1.router.FundamentalsRouter
@@ -42,7 +43,7 @@ fun MyTextField() {
     val primaryColor = colorResource(id = R.color.purple_200)
 
     OutlinedTextField(
-        label = { Text(text = stringResource(id = R.string.insert_text))},
+        label = { Text(text = stringResource(id = R.string.insert_text)) },
         colors = TextFieldDefaults.outlinedTextFieldColors(
             focusedBorderColor = primaryColor,
             focusedLabelColor = primaryColor,
