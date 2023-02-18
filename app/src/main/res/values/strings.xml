@@ -18,5 +18,6 @@
     <string name="rowScreen">Контейнер Row</string>
     <string name="myColumn">Контейнер Column</string>
     <string name="myBox">Контейнер Box</string>
+    <string name="mySurface">Контейнер Surface</string>
 
 </resources>
