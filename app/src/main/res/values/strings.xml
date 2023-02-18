@@ -17,5 +17,6 @@
     <string name="third">Третий</string>
     <string name="rowScreen">Контейнер Row</string>
     <string name="myColumn">Контейнер Column</string>
+    <string name="myBox">Контейнер Box</string>
 
 </resources>
