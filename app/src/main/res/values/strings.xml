@@ -21,5 +21,9 @@
     <string name="mySurface">Контейнер Surface</string>
     <string name="myScaffold">Контейнер Scaffold</string>
     <string name="menu">Меню</string>
+    <string name="android">Android</string>
+    <string name="kotlin">Kotlin</string>
+    <string name="swift">Swift</string>
+    <string name="ios">Ios</string>
 
 </resources>
